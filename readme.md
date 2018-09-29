@@ -1,4 +1,4 @@
-##vue-options-events  （基于事件总线的封装）
+### vue-options-events  （基于事件总线的封装）
 
 ### 安装
 ```js
