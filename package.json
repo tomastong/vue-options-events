@@ -1,0 +1,20 @@
+{
+  "name": "vue-options-events",
+  "version": "1.0.6",
+  "description": "vue中使用events选项触发事件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "events",
+    "options",
+    "bus",
+    "hub",
+    "events-center"
+  ],
+  "author": "donghongyan01@baidu.com",
+  "license": "ISC",
+  "devDependencies": {}
+}
